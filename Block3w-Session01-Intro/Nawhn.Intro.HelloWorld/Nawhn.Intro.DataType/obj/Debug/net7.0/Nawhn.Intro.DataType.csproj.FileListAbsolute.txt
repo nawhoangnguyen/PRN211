@@ -1,0 +1,14 @@
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\bin\Debug\net7.0\Nawhn.Intro.DataType.exe
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\bin\Debug\net7.0\Nawhn.Intro.DataType.deps.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\bin\Debug\net7.0\Nawhn.Intro.DataType.runtimeconfig.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\bin\Debug\net7.0\Nawhn.Intro.DataType.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\bin\Debug\net7.0\Nawhn.Intro.DataType.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.AssemblyInfoInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.AssemblyInfo.cs
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.csproj.CoreCompileInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\refint\Nawhn.Intro.DataType.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\Nawhn.Intro.DataType.genruntimeconfig.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session01-Intro\Nawhn.Intro.HelloWorld\Nawhn.Intro.DataType\obj\Debug\net7.0\ref\Nawhn.Intro.DataType.dll

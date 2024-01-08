@@ -1,0 +1,14 @@
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.AssemblyInfoInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.AssemblyInfo.cs
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.csproj.CoreCompileInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\bin\Debug\net7.0\Nawhn.DataType.DelegateV3.exe
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\bin\Debug\net7.0\Nawhn.DataType.DelegateV3.deps.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\bin\Debug\net7.0\Nawhn.DataType.DelegateV3.runtimeconfig.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\bin\Debug\net7.0\Nawhn.DataType.DelegateV3.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\bin\Debug\net7.0\Nawhn.DataType.DelegateV3.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\refint\Nawhn.DataType.DelegateV3.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\Nawhn.DataType.DelegateV3.genruntimeconfig.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session03-Deligate\Nawhn.DataType\Nawhn.DataType.DelegateV3\obj\Debug\net7.0\ref\Nawhn.DataType.DelegateV3.dll

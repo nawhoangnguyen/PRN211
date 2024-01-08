@@ -1,0 +1,14 @@
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\bin\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.exe
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\bin\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.deps.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\bin\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.runtimeconfig.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\bin\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\bin\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.AssemblyInfoInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.AssemblyInfo.cs
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.csproj.CoreCompileInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\refint\Nawhn.LinqIntro.CabinetV2.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\Nawhn.LinqIntro.CabinetV2.genruntimeconfig.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.CabinetV2\obj\Debug\net7.0\ref\Nawhn.LinqIntro.CabinetV2.dll

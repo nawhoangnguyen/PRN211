@@ -1,0 +1,14 @@
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\bin\Debug\net7.0\Nawhn.LinqIntro.Collection.exe
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\bin\Debug\net7.0\Nawhn.LinqIntro.Collection.deps.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\bin\Debug\net7.0\Nawhn.LinqIntro.Collection.runtimeconfig.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\bin\Debug\net7.0\Nawhn.LinqIntro.Collection.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\bin\Debug\net7.0\Nawhn.LinqIntro.Collection.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.AssemblyInfoInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.AssemblyInfo.cs
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.csproj.CoreCompileInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\refint\Nawhn.LinqIntro.Collection.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\Nawhn.LinqIntro.Collection.genruntimeconfig.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session04-LINQ\Nawhn.LinqIntro\Nawhn.LinqIntro.Collection\obj\Debug\net7.0\ref\Nawhn.LinqIntro.Collection.dll

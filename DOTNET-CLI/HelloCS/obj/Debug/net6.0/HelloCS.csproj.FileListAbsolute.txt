@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\bin\Debug\net6.0\HelloCS.exe
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\bin\Debug\net6.0\HelloCS.deps.json
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\bin\Debug\net6.0\HelloCS.runtimeconfig.json
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\bin\Debug\net6.0\HelloCS.dll
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\bin\Debug\net6.0\HelloCS.pdb
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.dll
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\refint\HelloCS.dll
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.pdb
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\HelloCS.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\HelloCS\obj\Debug\net6.0\ref\HelloCS.dll

@@ -1,0 +1,14 @@
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\bin\Debug\net7.0\Nawhn.Runner.DeathRacer.exe
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\bin\Debug\net7.0\Nawhn.Runner.DeathRacer.deps.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\bin\Debug\net7.0\Nawhn.Runner.DeathRacer.runtimeconfig.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\bin\Debug\net7.0\Nawhn.Runner.DeathRacer.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\bin\Debug\net7.0\Nawhn.Runner.DeathRacer.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.AssemblyInfoInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.AssemblyInfo.cs
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.csproj.CoreCompileInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\refint\Nawhn.Runner.DeathRacer.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\Nawhn.Runner.DeathRacer.genruntimeconfig.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Runner\Nawhn.Runner.DeathRacer\obj\Debug\net7.0\ref\Nawhn.Runner.DeathRacer.dll

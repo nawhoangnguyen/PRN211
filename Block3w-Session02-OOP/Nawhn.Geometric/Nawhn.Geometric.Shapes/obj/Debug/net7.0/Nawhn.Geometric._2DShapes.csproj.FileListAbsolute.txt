@@ -1,0 +1,14 @@
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\bin\Debug\net7.0\Nawhn.Geometric._2DShapes.exe
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\bin\Debug\net7.0\Nawhn.Geometric._2DShapes.deps.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\bin\Debug\net7.0\Nawhn.Geometric._2DShapes.runtimeconfig.json
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\bin\Debug\net7.0\Nawhn.Geometric._2DShapes.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\bin\Debug\net7.0\Nawhn.Geometric._2DShapes.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.AssemblyInfoInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.AssemblyInfo.cs
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.csproj.CoreCompileInputs.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\refint\Nawhn.Geometric._2DShapes.dll
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.pdb
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\Nawhn.Geometric._2DShapes.genruntimeconfig.cache
+D:\FPT University\FALL23\PRN211\Block_3w-GiaoLang\Block3w-Session02-OOP\Nawhn.Geometric\Nawhn.Geometric.Shapes\obj\Debug\net7.0\ref\Nawhn.Geometric._2DShapes.dll

@@ -1,0 +1,44 @@
+GHI CHÚ VỀ C#.NET
+0. LƯU Ý VỀ MÁY TÍNH VÀ THƯ MỤC CHỨA CODE (ÁP DỤNG CHO CÁC NGÔN NGỮ LẬP TRÌNH KHÁC)
+1.TÊN USERNAME LOGIN VÀO MÁY KO NÊN CÓ DẤU TIẾNG VIỆT CÓ DẤU CÁCH
+2.CODE CỦA MÌNH KO ĐỂ Ở THƯ MỤC (FOLDER) CÓ DẤU TIẾNG VIỆT - DẤU CÁCH - UNICODE
+=> TRÌNH BIÊN DỊCH (APP ĐI KÈM SDK/APP ĐI KÈM NNLT MÌNH DÙNG NÓ KO THÂN THIỆN VỚI KÍ TỰ LẠ)
+=> NHƯNG ĐƯỢC QUYỀN DÙNG THÊM DẤU GACH NGANG DẤU _, DẤU . TRONG TÊN THƯ MỤC THÌ VẪN OKE, NHƯNG VẪN VẪN YÊU CẦU VIẾT LIỀN TÊN
+3. .NET FRAMEWORK, .NET CỎE, .NET, .NET SDK, CROSS-PLATFORM, INDEPENDENT PLATFORM
+-SDK SỜTARE DEVELOPMENT KIT - BỘ CÔNG CỤ & THƯ VIỆN LẬP TRÌNH, BỘ CÔNG CỤ & THƯ VIỆ N CỦA 1 NGÔN NGỮ LẬP TRÌNH NÀO ĐÓ TA SẼ DÙNG ĐỂ VIẾT
+VÀ CHẠY APP
+=> ĐÂY LÀ THỨ BẮT BUỘC PHẢI CÓ ĐỂ BẮT ĐẦU 1 NGÔN NGỮ LẬP TRÌNH NÀO ĐÓ HOẶC BẮT ĐẦU 1 LOẠI APP NÀO ĐÓ!!!
+>THƯỜNG LÊN WEBSITE CHÍNH HÃNG DOWNLOAD VỀ ĐẺ CÀI ĐẶT VÀ DÙNGĐỂ LẬP TRÌNH VỚI C#(VB.NET,C++.NET...) - 1 HỌ NGÔN NGỮ CỦA MICROSOFT
+TA CẦN CÀI .NET SDK (CHỨA THƯ VIỆN ĐỂ VIẾT CODE, CHỨA MÔI TRƯỜNG MÁY ẢO ĐẺ CHẠY APP)
+
+>>>>>>>>LỊCH SỬ TIẾN HÓA CỦA .NET SDK GỒM CÁC TÊN NGỌI SAU (THEO TRÌNH TỰ THỜI GIAN)
+.NET FRAMEWORK  	>	 NET CORE 	.NET(hiện nay)
+chỉ chạy trên Windows	.LINUX		cả Windows và Linux và...
+									Đa nền,independent platform
+									cross platform
+			*WRITE ONE RUN ANYWHERE*
+.*ĐỂ LẬP TRÌNH VỚI .NET VỀ LÍ THUYẾT CẦN 
+				.NET SDK + NOTEPAD (GÕ CODE)
+.ĐỂ LẬP TRÌNH VỚI .NET VỀ THỰC HÀNH CẦN 
+-.NET SDK + 1 IDE LÀ TUYỆT VỜI NHẤT: VISUALT STUDIO (MICROSOFT), RIDER (JET BRAIN)	|| 1 CODE EDITOR NÀO ĐÓ ex: visual studio code
+
+KHI CÀI VISUAL STUDIO MẶC NHIÊN MÁY MÌNH ĐC CÀI LUÔN .NET SDK Ở THƯ MỤC
+C:\PROGRAM FILES\DOT NETVÀ BỘ CÀI TỰ ĐỘNG ADD/TẠO 1 CÁI BIẾN MÔI TRƯỜNG TRỎ THẰNG VÀO THƯ MỤC NÀY
+- biến trong lập trình int a - 19, int yearOfBirth = 2002 tên gọi 1 value nào đó dùng viết code
+- biến môi trường tên gọi cho 1 value nào đó, biến này đc CÁC APP CÙNG SHARE CÙNG XÀI BIẾN NÀY DO OS - HỆ ĐIỀU HÀNH QUẢN LÍ, GIÚP CÁC APP CHIA SẺ INFO
+ BÂTS KÌ APP NÀO CẦN THƯ VIỆN JAVA, XIN INFO BIẾN MÔI TRƯỜNG JAVA_HOME LÀ XONG
+	CATALINA_HOME -> TRỎ VÀO NƠI CÀI TOMCAT
+	AI SAU NÀY CẦN XÀI TOMCAT XIN VALUE BIẾN NÀY, XIN QUA HỆ ĐIỀU HÀNH
+	PATH -> TRỎ VÀO NIWU CÀU ,NET SDK C:\PROGRAM\FILES\DOTNET
+	AI CẦN TÌM DOTNET LỆNH SDK, THÌ VÀO ĐÂY MÀ LẤY
+-> TA CÓ THỂ KIỂM TRA PHIÊN BẢN SDK, RUNTIME/MÁY ẢO DOTNET BẢNG LỆNH Ở CỬA SỔ CMD: GÕ DOTNET ENTER
+SAU ĐÓ NHÌN GỢI Ý GÕ LẠI: DOTNET --.....
+
+CÁC PHIÊN BẢN SDK/MÁY ẢO ẢNH HƯỞNG ĐẾN LÚC TA TẠO MỚI PROJECT TRONG VISUAL STUDIO(VS)			
+=====================================================================================
+BẮT ĐẦU VIẾT CODE 
+
+4. TẠO THƯ MỤC CHỨA CODE CỦA MÌNH BIẾT RA MỖI BUỔI HỌC, C: D: E: TÙY BẠN...
+VÍ DỤ D:\SOURCE\SEMESTER-5
+      D:\SOURCE\PRN211
+	  D:\PRN211

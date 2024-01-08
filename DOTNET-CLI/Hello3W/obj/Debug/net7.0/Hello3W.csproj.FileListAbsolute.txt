@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\bin\Debug\net7.0\Hello3W.exe
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\bin\Debug\net7.0\Hello3W.deps.json
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\bin\Debug\net7.0\Hello3W.runtimeconfig.json
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\bin\Debug\net7.0\Hello3W.dll
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\bin\Debug\net7.0\Hello3W.pdb
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.dll
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\refint\Hello3W.dll
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.pdb
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\Hello3W.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Máy tính\DOTNET-CLI\Hello3W\obj\Debug\net7.0\ref\Hello3W.dll
